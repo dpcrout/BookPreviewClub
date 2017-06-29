@@ -19,7 +19,9 @@ import com.bookpreviewclub.view.YearBookView;
 public class BookPreviewClubTesting 
 {
 
-	public static void main(String[] args) {
+	public static void main(String[] args) 
+	{
+		System.out.println("Hello Asok");
 		
 	//"submit button"
 	/**
