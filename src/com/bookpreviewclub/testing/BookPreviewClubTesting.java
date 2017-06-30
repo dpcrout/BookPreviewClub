@@ -21,7 +21,7 @@ public class BookPreviewClubTesting
 
 	public static void main(String[] args) 
 	{
-		System.out.println("Hello Asok");
+		System.out.println("Hello Dilbert");
 		
 	//"submit button"
 	/**
