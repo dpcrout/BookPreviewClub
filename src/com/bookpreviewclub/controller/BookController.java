@@ -19,6 +19,8 @@ public class BookController
 	//instantiates service object when the application starts, no need to instantiate via java
 	@Autowired BookService bookService;
 	
+	// Testing GIT
+	
 	
 	// list page
 	@RequestMapping(value = "/books", method = RequestMethod.GET)
