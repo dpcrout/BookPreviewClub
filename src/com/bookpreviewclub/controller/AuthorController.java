@@ -22,7 +22,7 @@ public class AuthorController
 	//private AuthorDTO model;
 	//private AuthorView view;
 	
-	//Comment to Test PUSH TOGITHUB
+	//Comment to Test PUSH TO  GITHUB
 	
 	@Autowired
 	private AuthorService authorService;
