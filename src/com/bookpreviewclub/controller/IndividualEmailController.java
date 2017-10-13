@@ -5,6 +5,8 @@ import com.bookpreviewclub.service.IndividualEmailService;
 import com.bookpreviewclub.view.IndividualEmailView;
 import java.util.List;
 
+
+// Test Push to GITHUB
 public class IndividualEmailController {
 
 		private IndividualEmailDTO model;
