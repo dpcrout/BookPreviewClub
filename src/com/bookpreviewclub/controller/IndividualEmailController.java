@@ -7,8 +7,10 @@ import java.util.List;
 
 
 // Test Push to GITHUB
-public class IndividualEmailController {
+public class IndividualEmailController 
+{
 
+	//Test
 		private IndividualEmailDTO model;
 		private IndividualEmailView view;
 	
