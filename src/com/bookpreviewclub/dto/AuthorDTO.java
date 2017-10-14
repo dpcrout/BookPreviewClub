@@ -8,7 +8,7 @@ public class AuthorDTO {
 	private String penName;
 	private String authorSite;
 	  
-	
+	//Hello Asok
 	public int getAuthorID() {
 		return authorID;
 	}
